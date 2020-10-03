@@ -1,7 +1,9 @@
 # Discovering Architecture And Ecosystem SpringBoot
+
 Repositories Manager
 + Gradle
 + Maven
+
 Projects
 + Spring Batch
 + Spring Data

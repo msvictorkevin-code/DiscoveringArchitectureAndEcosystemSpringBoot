@@ -1,4 +1,4 @@
-# Discovering Architecture And Ecosystem SpringBoot
+# SpringBoot And Angular
 
 Repositories Manager
 + Maven

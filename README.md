@@ -6,4 +6,7 @@ Repositories Manager
 Projects
 + Spring Data
 + Spring Boot
++ Spring Security
++ Oauth 2
 + Angular +8
++ MySQL
